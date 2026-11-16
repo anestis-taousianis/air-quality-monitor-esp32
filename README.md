@@ -2,7 +2,7 @@
 
 A battery-powered, portable air quality station built around an **ESP32**. It measures air quality and carbon monoxide and sends the readings over WiFi to the **Blynk** mobile app, so people can see which areas are more polluted. Several devices can form a network covering a neighbourhood, a municipality or a larger area.
 
-This was my **master's thesis project** (Applied Electronic Systems, International Hellenic University, 2021): *"Construction of a network of portable air quality measuring stations"*.
+
 
 ## Hardware
 
